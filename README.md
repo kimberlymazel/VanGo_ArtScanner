@@ -3,7 +3,7 @@
 VanGo ArtScanner is an Object-Oriented project that aims to allow users to insert images of artworks and get information of it in return. This project currently focuses on Vincent Van Gogh's paintings and sketches from his letters. All files related to the program can be found in the src folder. The package of the program is called artscanner.
 
 # Demonstration Video
-- Currently unavailable
+- https://drive.google.com/file/d/1E8WYjCCoL45NLucDEOWwGPTJINPnqOeo/view?usp=sharing
 
 # Contents of artscanner
 - images - Images used in VanGo's program
